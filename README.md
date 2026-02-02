@@ -14,4 +14,6 @@ Notebooks fundamentos programacion Python
 
 <strong>6. Operadores sobre listas</strong> ["notebook sobre operadores de listas](./operaciones_sobre_listas.ipynb)<hr>
 
-<strong>7. Apuntes sobre diccionarios</strong>["notebook sobre diccionarios"](./diccionarios.ipynb)
+<strong>7. Apuntes sobre diccionarios</strong> ["notebook sobre diccionarios"](./diccionarios.ipynb)<hr>
+
+<strong>8. Apuntes sobre conjuntos</strong> ["notebook sobre conjuntos"](./conjuntos.ipynb)
